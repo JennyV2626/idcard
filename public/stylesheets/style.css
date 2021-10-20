@@ -86,3 +86,11 @@ input, select {
 .lobster {
   font-family: 'lobster';
 }
+
+.img {
+  width: 200px;
+}
+
+.random {
+  font-size: 30px;
+}
