@@ -41,6 +41,7 @@ input, select {
   border-radius: 8px;
   max-width: 400px;
   padding: 16px;
+  box-shadow:0 10px 10px 0 grey;
 }
 
 .title {
@@ -62,21 +63,21 @@ input, select {
 }
 
 .card.premium {
-  border: 3px solid #C99839;
-  background-color: #FDF6E7;
-  color: #C99839;
+  border: 4px solid #FFAE00;
+  background-color: #FFFAA0;
+  color: #FFAE00;
 }
 
 .card.standard {
-  border: 3px solid #7D7D7D;
-  background-color: #F4F4F4;
+  border: 4px solid #7D7D7D;
+  background-color: #F5F5F5;
   color: #7D7D7D;
 }
 
 .card.bronze {
-  border: 3px solid #714740;
-  background-color: #F1E1DF;
-  color: #714740;
+  border: 4px solid #9A3F2F;
+  background-color: #FAF1EF;
+  color: #9A3F2F;
 }
 
 .label {
@@ -85,6 +86,7 @@ input, select {
 
 .lobster {
   font-family: 'lobster';
+  font-size: 20px;
 }
 
 .img {
